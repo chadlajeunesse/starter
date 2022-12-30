@@ -1,2 +1,2 @@
 # starter
-starter site
+Starter site.
